@@ -1,0 +1,61 @@
+﻿body{
+	background-color: #12110F;
+	margin-top:-40px;
+}
+p{
+	text-indent: 2em;
+}
+.page-header{
+	height: 550px;
+	width: 100%;
+	background:#04353C url(../img/a%2Fimages%2F2017%2F6%2F29%2F死灵2.jpg) no-repeat -280px 0px;
+}
+.bg{
+	margin-left: 55px;
+	margin-top: -10px;
+}
+.div_img{
+	height:50px;
+	background:transparent url(../img/1%2Fnav%2Fnav-icon.png) no-repeat;
+	background-position: center;
+	margin-top: -58px;
+}
+.media-body{
+	color: #999999;
+}
+.media{
+	background-color: #12110F;
+}
+.row{
+	background-color:#12110F;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+.text-center{
+	/*font-size: 65px;*/
+}
+.page-feeter{
+	background: url(../img/1%2Fv1%2Fnews%2Fheader-bg.jpg);
+	height: 195px;
+	margin-top: -20px;
+}
+.context{
+	margin-top: 20px;
+}
+.img_s{
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+li{
+	display: block;
+}
+.thumbnail{
+	background-color: transparent;
+	border-style: none;
+}
+.thumbnail:hover{
+	border-color: #2F6DA2;
+	border-style: solid;
+}
