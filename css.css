@@ -1,0 +1,92 @@
+﻿.wrapper {
+	background:url(http://diablo3.nos.netease.com/1/v1/gameguide/demon-hunter-bg.jpg) no-repeat right top
+}
+.page-header .desc {
+	padding-top:5px;
+	width:auto
+}
+.page-header {
+	height:230px
+}
+.portrait-row {
+	padding-bottom:15px
+}
+.portrait-row .portrait-left-col {
+	display:block;
+	float:left;
+	padding-right:16px
+}
+.portrait-row .portrait-right-col {
+	float:left;
+	width:580px
+}
+.portrait-row .header-3 {
+	margin-top:0
+}
+.page-body {
+	margin:0;
+	padding:30px 30px 0
+}
+.features-top {
+	background-image:url(http://diablo3.nos.netease.com/1/gameguide/demon-hunter/features-top.jpg)
+}
+.features .crest {
+	background-image:url(http://diablo3.nos.netease.com/1/gameguide/demon-hunter/crest.png)
+}
+.features .header-3 {
+	color:#000;
+	font-size:18px;
+	font-weight:700;
+	text-align:center;
+	margin:0
+}
+.page-body .header-3 {
+	margin:0
+}
+.page-body ul {
+	list-style-type:none;
+	padding-left:0
+}
+.page-body ul li {
+	list-style-image:none;
+	margin-top:25px
+}
+.gd-media-frame {
+	display:block;
+	float:left;
+	margin:0 3px
+}
+.resource-top {
+	padding:160px 25px 50px;
+	background-image:url(http://diablo3.nos.netease.com/1/gameguide/demon-hunter/resource-top.jpg)
+}
+.resource-orb {
+	background-image:url(http://diablo3.nos.netease.com/1/gameguide/demon-hunter/resource-orb.gif)
+}
+.gameplay {
+	background:repeat;
+	position:relative
+}
+.gameplay .section-body {
+	padding:0
+}
+.class-video a {
+	background-image:url(http://diablo3.nos.netease.com/1/gameguide/demon-hunter/class-video.jpg)
+}
+.character-model .model-canvas {
+	background-image:url(http://diablo3.nos.netease.com/1/gameguide/demon-hunter/model-bg.jpg)
+}
+.hero-male .model-canvas .fallback {
+	background-image:url(http://diablo3.nos.netease.com/1/gameguide/demon-hunter/model-male.jpg)
+}
+.hero-female .model-canvas .fallback {
+	background-image:url(http://diablo3.nos.netease.com/1/gameguide/demon-hunter/model-female.jpg)
+}
+.armor .tiers {
+	padding-top:400px;
+	background-image:url(http://diablo3.nos.netease.com/1/gameguide/demon-hunter/armor-bg.jpg);
+	background-position:center 20px
+}
+.gd-media-frame .mm a:hover .frame {
+	background:rgba(0,0,0,.3) url(http://diablo3.nos.netease.com/1/gameguide/layout/view-image.png) 50% 50% no-repeat
+}
