@@ -8,7 +8,7 @@ p{
 .page-header{
 	height: 550px;
 	width: 100%;
-	background:#04353C url(https://raw.githubusercontent.com/srhe/srhe.github.io/master/../img/a%2Fimages%2F2017%2F6%2F29%2F死灵2.jpg) no-repeat -280px 0px;
+	background:#04353C url(https://github.com/srhe/srhe.github.io/blob/master/img/a%252Fimages%252F2017%252F6%252F29%252F%E6%AD%BB%E7%81%B52.jpg?raw=true) no-repeat -280px 0px;
 }
 .bg{
 	margin-left: 55px;
@@ -16,7 +16,7 @@ p{
 }
 .div_img{
 	height:50px;
-	background:transparent url(https://raw.githubusercontent.com/srhe/srhe.github.io/master/../img/1%2Fnav%2Fnav-icon.png) no-repeat;
+	background:transparent url(https://github.com/srhe/srhe.github.io/blob/master/img/1%252Fnav%252Fnav-icon.png?raw=true) no-repeat;
 	background-position: center;
 	margin-top: -58px;
 }
@@ -36,7 +36,7 @@ p{
 	/*font-size: 65px;*/
 }
 .page-feeter{
-	background: url(https://raw.githubusercontent.com/srhe/srhe.github.io/master/../img/1%2Fv1%2Fnews%2Fheader-bg.jpg);
+	background: url(https://github.com/srhe/srhe.github.io/blob/master/img/1%252Fgameguide%252Fdemon-hunter%252Fmodel-bg.jpg?raw=true);
 	height: 195px;
 	margin-top: -20px;
 }
